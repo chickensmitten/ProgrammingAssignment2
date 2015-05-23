@@ -1,6 +1,10 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+## Help from External Sources
+## revise basics of R: http://cran.r-project.org/doc/manuals/R-intro.pdf
+## test function and checking: http://masterr.org/r/how-to-cache-a-matrix-inversion-in-r/ 
+
 ## Write a short comment describing this function
 ## Following the example shown in "Example: Caching the Mean of a Vector"
 ## The difference is just that the function is set for inverse instead of mean.
