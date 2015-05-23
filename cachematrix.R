@@ -18,9 +18,9 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## Write a short comment describing this function
-## Return the inverse of makeCacheMatrix().
-## if function returns the inverse from cache and skips calculation
-## if it has been calculated.
+## Follow the second example shown in "Example: Caching the Mean of a Vector"
+## Difference is to just return the inverse of makeCacheMatrix() instead of the mean.
+## if function returns the inverse from cache then it skips calculation as it has been calculated.
 ## else, it will calculate for the inverse
 
 cacheSolve <- function(x, ...) {
